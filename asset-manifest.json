@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.95582374.css",
+    "main.js": "/static/js/main.453d2678.js",
+    "static/media/arrow.webp": "/static/media/arrow.59345bbd188cde902bfd.webp",
+    "static/media/download.webp": "/static/media/download.09339423088d291fe8f2.webp",
+    "static/media/logo.webp": "/static/media/logo.d109541da5e60e25fe16.webp",
+    "static/media/copyright.webp": "/static/media/copyright.3579696a4774ea77e274.webp",
+    "static/media/menu.webp": "/static/media/menu.2e21abd68e17e5a7f2cb.webp",
+    "static/media/link.webp": "/static/media/link.2384335ca2d9303745b4.webp",
+    "static/media/eye.webp": "/static/media/eye.553153d8fd97c252660c.webp",
+    "static/media/tutorial.webp": "/static/media/tutorial.2a5b7f3ae0cdd0ce0502.webp",
+    "static/media/search.webp": "/static/media/search.ce84f2d7b1a041b85383.webp",
+    "static/media/step.webp": "/static/media/step.b58d80286423d6fc81e4.webp",
+    "static/media/404.webp": "/static/media/404.24d74250faf394b2baf9.webp",
+    "static/media/locked.webp": "/static/media/locked.75fb3f359f40b983786f.webp",
+    "static/media/discord.webp": "/static/media/discord.7bc30bfb17642fa1ff68.webp",
+    "static/media/facebook.webp": "/static/media/facebook.15524534241a2faae2fd.webp",
+    "static/media/close.webp": "/static/media/close.5555c509a81118f1c26c.webp",
+    "index.html": "/index.html",
+    "static/media/youtube.webp": "/static/media/youtube.a244584be3f5c99d54ef.webp"
+  },
+  "entrypoints": [
+    "static/css/main.95582374.css",
+    "static/js/main.453d2678.js"
+  ]
+}
