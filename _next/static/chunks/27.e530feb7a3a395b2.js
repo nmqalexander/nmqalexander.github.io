@@ -1,0 +1,1 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[27],{5263:n=>{n.exports={notify:"Notify_notify__k0cQC"}},6027:(n,i,t)=>{t.r(i),t.d(i,{default:()=>s});var e=t(7876),f=t(5263),o=t.n(f);function s(){return(0,e.jsx)("div",{className:o().notify,id:"notify-container",children:(0,e.jsx)("span",{id:"notify"})})}}}]);

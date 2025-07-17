@@ -1,0 +1,1 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[247],{3247:(e,n,t)=>{t.r(n),t.d(n,{default:()=>c});var o=null;const c=function(e){o&&clearTimeout(o),document.querySelector("#notify-container").style.display="block",document.querySelector("#notify").innerText=e,o=setTimeout(function(){document.querySelector("#notify-container").style.display="none"},5e3)}}}]);
